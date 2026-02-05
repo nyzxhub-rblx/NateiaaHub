@@ -13,7 +13,7 @@ local gameScripts = {
     },
     [121864768012064] = {
         name = "Fish It",
-        free = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs/refs/heads/main/Fish_It/freemiumopen.colseui.lua"
+        free = "https://raw.githubusercontent.com/nyzxhub-rblx/NateiaaHub/refs/heads/main/FishIt/MainFree.lua"
     }
 }
 
